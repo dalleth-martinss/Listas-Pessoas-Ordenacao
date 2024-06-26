@@ -4,15 +4,21 @@ public class Main {
 
         ordenacaoPessoa.adicionaPessoa("Nome 1", 20, 1.56);
         System.out.println("\n");
-        ordenacaoPessoa.adicionaPessoa("Nome 1", 30, 1.80);
+        ordenacaoPessoa.adicionaPessoa("Nome 2", 30, 1.80);
         System.out.println("\n");
-        ordenacaoPessoa.adicionaPessoa("Nome 1", 25, 1.70);
+        ordenacaoPessoa.adicionaPessoa("Nome 3", 25, 1.70);
         System.out.println("\n");
-        ordenacaoPessoa.adicionaPessoa("Nome 1", 17, 1.56);
+        ordenacaoPessoa.adicionaPessoa("Nome 4", 17, 1.56);
         System.out.println("\n");
-        ordenacaoPessoa.adicionaPessoa("Nome 1", 22, 1.95);
+        ordenacaoPessoa.adicionaPessoa("Nome 5", 22, 1.95);
         System.out.println("\n");
         ordenacaoPessoa.adicionaPessoa("Nome 1", 40, 1.55);
+        System.out.println("\n");
+        ordenacaoPessoa.adicionaPessoa("Nome 1", 17, 1.80);
+        System.out.println("\n");
+        ordenacaoPessoa.adicionaPessoa("Nome 1", 25, 1.95);
+        System.out.println("\n");
+        ordenacaoPessoa.adicionaPessoa("Nome 1", 12, 1.59);
         System.out.println("\n");
 
         System.out.println("Lista de pessoas: \n");
